@@ -1,0 +1,38 @@
+.pop-up-wrapper{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+}
+.wrapper-content{
+    background: palevioletred;
+    padding: 30px;
+    width:  300px;
+    display: grid;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 17px;
+    font-size: 20px;
+
+}
+.close{
+    color: black;
+    font-size: 25px;
+    background: whitesmoke;
+    width: 30px;
+    float: right;
+    border: 1px solid black;
+    border-radius: 50%;
+    text-align: center;
+}
+.page-header{
+    font-size: 70px;
+}
+.content{
+    background: palevioletred;
+    height: 500%;
+}
